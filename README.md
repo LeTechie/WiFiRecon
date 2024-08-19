@@ -46,6 +46,7 @@ This guide will help you set up your environment to run the WiFi reconnaissance 
    - You should see the installed version of Python.
 
 # Step #2: Running the WiFiRecon
+- Download/ Clone the repo, then extract.
 - Navigate/Open a terminal from the same folder where main.py and its dependencies are located.
   
 ### Windows
