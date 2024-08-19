@@ -69,3 +69,5 @@ The script will generate and save a text file (in the same folder) containing de
 - **SSID**: The network name.
 - **Center Frequency**: The channel frequency in MHz.
 - **Signal Strength**: The signal strength in dBm.
+
+A sample text file is given for reference.
