@@ -1,5 +1,5 @@
 # WiFiRecon
-This repository provides a tool for WiFi reconnaissance on Windows Systems, enabling users to collect essential data on nearby Access Points (APs). The collected data can be used to reliably optimize WiFi networks, such as mapping signal strength and WiFi usage within a building.
+This repository provides a tool for WiFi reconnaissance on Windows Systems, enabling users to collect essential data on nearby Access Points (APs). The collected data can be used to reliably optimize WiFi networks, such as mapping WiFi signal strength within a building.
 
 Tested with python 3.11, 3.12
 
