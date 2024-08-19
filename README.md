@@ -11,8 +11,8 @@ This guide will help you set up your environment to run the WiFi reconnaissance 
 
 ### Windows
 
-1. **Download Python from Microsoft Store**:
-   - search "python" in Microsoft Store and install (python version 3.11 or 3.12) on your system.
+1. **Download Python from Microsoft Store (Straight forward)**:
+   - Search "python" in Microsoft Store and install (python version 3.11 or 3.12) on your system.
 2. **(Or) Download Python from official website**: 
    - Go to the official [Python website](https://www.python.org/downloads/) and download the latest version of Python 3.
    - During installation, make sure to check the box that says **"Add Python to PATH"**. This ensures that you can run Python from the command line.
