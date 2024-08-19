@@ -42,3 +42,5 @@ The script will generate and save a text file (in the same folder) containing de
 
 A sample text file is given for reference.
 
+Screenshot of a successful run:
+!Screenshot Terminal_Windows
