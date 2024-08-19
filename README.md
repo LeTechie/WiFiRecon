@@ -40,7 +40,9 @@ The script will generate and save a text file (in the same folder) containing de
 - **Center Frequency**: The channel frequency in MHz.
 - **Signal Strength**: The signal strength in dBm.
 
-A sample text file is given for reference.
+A sample saved text file is given for reference. The filename will be same as the location provided by you. 
+
+Now you can send this saved text file to your admin for network planning.
 
 Screenshot of a successful run:
 ![my screenshot](Terminal_Windows.png)
