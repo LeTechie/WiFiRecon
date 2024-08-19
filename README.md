@@ -3,7 +3,6 @@ This repository provides a tool for WiFi reconnaissance, enabling users to colle
 
 Tested with python 3.11, 3.12
 
-## Usage
 # Getting Started with Python
 
 This guide will help you set up your environment to run the WiFi reconnaissance tool provided in this repository. The following steps cover everything from installing Python to running the script on both Windows and Linux systems.
@@ -46,7 +45,7 @@ This guide will help you set up your environment to run the WiFi reconnaissance 
      ```
    - You should see the installed version of Python.
 
-## 3. Running the WiFiRecon
+## 2. Running the WiFiRecon
 - Navigate/Open a terminal from the same folder where main.py and its dependencies are located.
   
 ### Windows
@@ -61,7 +60,7 @@ This guide will help you set up your environment to run the WiFi reconnaissance 
    ```bash
    python3 main.py
    
-## 4. Result Format
+## 3. Result Format
 
 The script will generate and save a text file (in the same folder) containing details of nearby WiFi networks, including:
 
