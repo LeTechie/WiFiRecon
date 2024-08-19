@@ -1,0 +1,15 @@
+LOCATION, AP_MAC_ID, SSID, CENTER_FREQ_MHz, RSSI_dBm
+A421 Cyber Phy Lab, 3C:52:A1:0B:C0:AF, b'LAB-421B', 5765.0, -56
+A421 Cyber Phy Lab, 04:62:73:09:A6:73, b'IITH-Guest-PWD-IITH@2023', 2462.0, -83
+A421 Cyber Phy Lab, 9C:A2:F4:0B:90:20, b'Seismic_source', 2457.0, -77
+A421 Cyber Phy Lab, 04:62:73:09:A6:70, b'eduroam', 2462.0, -82
+A421 Cyber Phy Lab, BC:9F:E4:E7:B5:00, b'IITH-Guest-PWD-IITH@2023', 2462.0, -84
+A421 Cyber Phy Lab, 10:27:F5:88:AE:7D, b'AV_Lab', 2417.0, -82
+A421 Cyber Phy Lab, 3C:52:A1:0B:C0:B0, b'LAB-421B', 2442.0, -49
+A421 Cyber Phy Lab, F4:F2:6D:83:CA:FA, b'TP-LINK_CAFA', 2462.0, -31
+A421 Cyber Phy Lab, 98:25:4A:B3:6F:86, b'Minerals', 2447.0, -80
+A421 Cyber Phy Lab, 28:80:88:EF:A4:A2, b'CyberPhyLab_A421', 2472.0, -54
+A421 Cyber Phy Lab, BC:9F:E4:E7:B5:01, b'IITH', 2462.0, -77
+A421 Cyber Phy Lab, 28:80:88:EF:A4:A4, b'CyberPhyLab_A421-5G', 5220.0, -46
+A421 Cyber Phy Lab, 2E:80:88:EF:A4:A2, b'Trial-Guest', 2472.0, -55
+A421 Cyber Phy Lab, BC:9F:E4:E7:B5:02, b'eduroam', 2462.0, -85
