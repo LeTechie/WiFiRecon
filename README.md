@@ -45,7 +45,7 @@ This guide will help you set up your environment to run the WiFi reconnaissance 
      ```
    - You should see the installed version of Python.
 
-## 2. Running the WiFiRecon
+# Running the WiFiRecon
 - Navigate/Open a terminal from the same folder where main.py and its dependencies are located.
   
 ### Windows
@@ -60,7 +60,7 @@ This guide will help you set up your environment to run the WiFi reconnaissance 
    ```bash
    python3 main.py
    
-## 3. Result Format
+# Result Format
 
 The script will generate and save a text file (in the same folder) containing details of nearby WiFi networks, including:
 
