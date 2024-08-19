@@ -5,7 +5,7 @@ Tested with python 3.11, 3.12
 
 # Step #1: Getting Started with Python
 
-This guide will help you set up your environment to run the WiFi reconnaissance tool provided in this repository. The following steps cover everything from installing Python to running the script on both Windows and Linux systems.
+This guide will help you set up your environment to run the WiFi reconnaissance tool provided in this repository. The following steps cover everything from installing Python to running the script on both Windows systems.
 
 ## 1. Install Python
 
