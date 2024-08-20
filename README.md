@@ -7,7 +7,7 @@ Tested with python 3.11, 3.12
 
 The following steps cover everything from installing Python to running the script on Windows systems.
 
-## 1. Install Python
+## Install Python
 
 1. **Download Python from Microsoft Store (Straight forward)**:
    - Search "python" in Microsoft Store and install (python version 3.11 or 3.12) on your system.
@@ -31,6 +31,12 @@ The following steps cover everything from installing Python to running the scrip
    ```bash
    python main.py
 
+2. **Required Input**:
+- Now you will be asked to provide the location (e.g., Room No, Lab No etc.). Once you provide, then click enter to complete the scan and results to be saved.
+
+Screenshot of a successful run:
+![my screenshot](Terminal_Windows.png)
+
 # Result Format
 
 The script will generate and save a text file (in the same folder) containing details of nearby WiFi networks, including:
@@ -38,12 +44,9 @@ The script will generate and save a text file (in the same folder) containing de
 - **Location**: The user-specified location (e.g., "A421 Cyber Phy Lab").
 - **Access Point MAC ID**: The unique identifier of each WiFi access point.
 - **SSID**: The network name.
-- **Center Frequency**: The channel frequency in MHz.
+- **Center Frequency**: The channel center frequency in MHz.
 - **Signal Strength**: The signal strength in dBm.
 
-A sample saved text file is given for reference. The filename will be same as the location provided by you. 
+A sample saved text file is given for reference. The filename will be same as the location provided by you (e.g., "A421 Cyber Phy Lab"). 
 
-Now you can send this saved text file to your admin for network planning.
-
-Screenshot of a successful run:
-![my screenshot](Terminal_Windows.png)
+Now you can share this saved text file to your admin for network planning.
