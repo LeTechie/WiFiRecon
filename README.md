@@ -32,7 +32,7 @@ The following steps cover everything from installing Python to running the scrip
    python main.py
 
 2. **Required Input**:
-- Now you will be asked to provide the location (e.g., Room No, Lab No etc.). Once you provide, then click enter to complete the scan and results to be saved.
+- Now you will be asked to provide the location (e.g., Room No, Lab No etc.). Once you provide, then hit enter to complete the scan and results to be saved.
 
 Screenshot of a successful run:
 ![my screenshot](Terminal_Windows.png)
@@ -49,4 +49,4 @@ The script will generate and save a text file (in the same folder) containing de
 
 A sample saved text file is given for reference. The filename will be same as the location provided by you (e.g., "A421 Cyber Phy Lab"). 
 
-Now you can share this saved text file to your admin for network planning.
+Now you can share this saved text file with your admin for efficient network planning.
