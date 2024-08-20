@@ -24,6 +24,7 @@ The following steps cover everything from installing Python to running the scrip
 
 # Step #2: Running WiFiRecon
 - Download the repo, then extract.
+  ![my screenshot](Screenshot_how_to_download.png)
 - Navigate/Open a terminal from the same folder where main.py and its dependencies are located.
 
 1. **Run the Script**:
