@@ -9,7 +9,7 @@ The following steps cover everything from installing Python to running the scrip
 
 ## Install Python
 
-1. **Download Python from Microsoft Store (Straight forward)**:
+1. **Download Python from Microsoft Store (Straightforward way to get python interpreter on MS)**:
    - Search "python" in Microsoft Store and install (python version 3.11 or 3.12) on your system.
 2. **(Or) Download Python from official website**: 
    - Go to the official [Python website](https://www.python.org/downloads/) and download the latest version of Python 3.
