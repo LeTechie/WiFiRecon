@@ -32,7 +32,7 @@ The following steps cover everything from installing Python to running the scrip
    python main.py
 
 2. **Required Input**:
-- Now you will be asked to provide the location (e.g., Room No, Lab No etc.). Once you provide, then hit enter to complete the scan and results to be saved.
+- Now you will be asked to provide the location (e.g., Room No, Lab No etc.). Once you provide, hit enter to complete the scan and results to be saved.
 
 Screenshot of a successful run:
 ![my screenshot](Terminal_Windows.png)
